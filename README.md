@@ -1,8 +1,8 @@
 Fullstack Web Developer.
 
-# Shiro Soft
+# Shiro Dev
 
-Hi, I'm Shiro Soft , i'm a developer web & mobile. I live in Tasikmalaya , West Java, Indonesia.
+Hi, I'm Shiro Dev , i'm a developer web & mobile. I live in Tasikmalaya , West Java, Indonesia.
 
 ## Github Performance Overall
 
