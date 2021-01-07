@@ -1,16 +1,19 @@
-### Hi there 👋
+Fullstack Web Developer.
 
-<!--
-**shirokun20/shirokun20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Shiro Soft
 
-Here are some ideas to get you started:
+Hi, I'm Shiro Soft , i'm a developer web & mobile. I live in Tasikmalaya , West Java, Indonesia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Github Performance Overall
+
+![github stats](https://github-readme-stats.vercel.app/api?username=shirokun20&show_icons=true)
+
+
+
+## Current activity
+
+- 💼 I graduated from high school majoring in software engineering
+- 💬 Ask me about anything, I am happy to help;
+- 📫 Please email via khoirul.20998@gmail.com to reach me.
+
+Thank's All
