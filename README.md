@@ -1,4 +1,4 @@
-Fullstack Web Developer.
+Fullstack Developer.
 
 # Shiro Dev
 
