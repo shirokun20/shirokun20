@@ -1,6 +1,8 @@
 # Shiro Dev
-![GitHub followers](https://img.shields.io/github/followers/shirokun20?logo=GitHub&style=for-the-badge) <br>
+
 Hi, I'm Shiro Dev , i'm a developer web & mobile. I live in Tasikmalaya , West Java, Indonesia.
+
+![GitHub followers](https://img.shields.io/github/followers/shirokun20?logo=GitHub&style=for-the-badge) <br>
 
 ## Github Performance Overall
 
