@@ -2,7 +2,8 @@
 
 Hi, I'm Shiro Dev , i'm a developer web & mobile. I live in Tasikmalaya , West Java, Indonesia.
 
-![GitHub followers](https://img.shields.io/github/followers/shirokun20?logo=GitHub&style=for-the-badge) <br>
+![GitHub followers](https://img.shields.io/github/followers/shirokun20?logo=GitHub&style=for-the-badge)
+<a href="https://trakteer.id/shirokun20998" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-blue-6.png" height="30" style="border: 0px; height: 30px;" alt="Trakteer Saya"></a> <br>
 
 ## Github Performance Overall
 
