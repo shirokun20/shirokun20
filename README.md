@@ -1,6 +1,6 @@
 # Shiro Dev
 
-Hi, I'm Shiro Dev , i'm a developer web & mobile. I live in Tasikmalaya , West Java, Indonesia.
+Hi, I'm Shiro Mobile Dev , i'm a mobile. I live in Pangandaran , West Java, Indonesia.
 
 ![GitHub followers](https://img.shields.io/github/followers/shirokun20?logo=GitHub&style=for-the-badge)
 <a href="https://trakteer.id/shirokun20998" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-blue-6.png" height="30" style="border: 0px; height: 30px;" alt="Trakteer Saya"></a> <br>
@@ -18,7 +18,7 @@ Hi, I'm Shiro Dev , i'm a developer web & mobile. I live in Tasikmalaya , West J
 <br>
 ## Current activity
 
-- 💼 I graduated from high school majoring in software engineering
+- 💼 I graduated from STMIK DCI in software engineering
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via khoirul.20998@gmail.com to reach me.
 
