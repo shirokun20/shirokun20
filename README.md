@@ -91,20 +91,17 @@ I offer comprehensive mobile development services tailored to your business need
 
 ### 🏆 Professional Highlights
 
-```
-📊 Experience               : Multiple Mobile Applications Delivered
-⭐ Client Focus             : High Satisfaction & Quality Standards
-🌍 Geographic Reach         : Indonesia, ASEAN, International
-💼 Industries Served        : E-commerce, Education, Healthcare, Finance
-🎯 Specialization          : Enterprise Apps, B2C Solutions
-```
+**Technical Expertise:**
+- 💻 **Mobile Development**: Android (Kotlin, Java) and Flutter (Dart)
+- 🏗️ **Architecture**: MVVM, Clean Architecture, Repository Pattern
+- 🔧 **Complex Integrations**: Payment gateways, real-time features, geo-location
+- 📱 **Full Lifecycle**: Design → Development → Testing → Deployment → Maintenance
 
-**Key Achievements:**
-- ✨ Successfully launched production apps on Google Play Store and App Store
-- 🚀 Delivered **enterprise-grade solutions** for businesses and startups
-- 💡 Implemented **complex features** including real-time chat, payment gateways, and geo-location services
-- 🔒 Maintained **reliable, stable applications** with proper monitoring and error handling
-- 📈 Consistently improved app performance through optimization best practices
+**Experience Scope:**
+- 🌍 **Geographic Reach**: Indonesia, ASEAN, International clients
+- 💼 **Industries**: E-commerce, Education, Healthcare, Finance, Startups
+- 🎯 **App Types**: Enterprise solutions, B2C applications, Cross-platform apps
+- ⚙️ **Development Approach**: Agile methodology, Clean code, Best practices
 
 ---
 
