@@ -23,11 +23,11 @@
 I'm a dedicated **Mobile Developer** with proven expertise in delivering high-quality Android and cross-platform applications. Graduated from **STMIK DCI**, I bring both technical excellence and business understanding to every project.
 
 **What I Bring to Your Project:**
-- ✅ **5+ Years** of hands-on mobile development experience
+- ✅ **Professional experience** in mobile development with proven track record
 - ✅ **Professional-grade** Android apps (Kotlin/Java) with modern architecture
 - ✅ **Cross-platform expertise** in Flutter for iOS & Android deployment
 - ✅ **Clean, maintainable code** following industry best practices
-- ✅ **On-time delivery** with clear communication throughout development
+- ✅ **Reliable delivery** with clear communication throughout development
 - ✅ **Post-launch support** and maintenance for seamless operations
 
 **Current Focus:**
@@ -92,19 +92,19 @@ I offer comprehensive mobile development services tailored to your business need
 ### 🏆 Professional Highlights
 
 ```
-📊 Projects Delivered       : 50+ Mobile Applications
-⭐ Client Satisfaction      : 98% Rating
+📊 Experience               : Multiple Mobile Applications Delivered
+⭐ Client Focus             : High Satisfaction & Quality Standards
 🌍 Geographic Reach         : Indonesia, ASEAN, International
 💼 Industries Served        : E-commerce, Education, Healthcare, Finance
 🎯 Specialization          : Enterprise Apps, B2C Solutions
 ```
 
 **Key Achievements:**
-- ✨ Successfully launched apps with **100K+ downloads** on Google Play Store
-- 🚀 Delivered **enterprise-grade solutions** for businesses of all sizes
-- 💡 Implemented **complex features** like real-time chat, payment gateways, and geo-location services
-- 🔒 Maintained **99.9% uptime** for production applications
-- 📈 Improved app performance by **40-60%** through optimization techniques
+- ✨ Successfully launched production apps on Google Play Store and App Store
+- 🚀 Delivered **enterprise-grade solutions** for businesses and startups
+- 💡 Implemented **complex features** including real-time chat, payment gateways, and geo-location services
+- 🔒 Maintained **reliable, stable applications** with proper monitoring and error handling
+- 📈 Consistently improved app performance through optimization best practices
 
 ---
 
