@@ -165,16 +165,21 @@ I follow a structured, transparent development workflow to ensure quality result
 
 ---
 
-### 💬 Client Testimonials
+### 💬 Why Clients Choose Me
 
-> *"Working with Shirokun20 was a fantastic experience. The app was delivered on time, worked flawlessly, and exceeded our expectations. Highly recommended!"*  
-> — **Previous Client**
+**Professional Approach:**
+- 🎯 **Clear Communication**: Regular updates and transparent progress tracking
+- 📊 **Quality Focus**: Clean, well-documented code following best practices
+- ⏰ **Reliable Delivery**: Realistic timelines with milestone-based approach
+- 🤝 **Collaborative**: Open to feedback and iterative improvements
+- 🔒 **Confidentiality**: NDA-ready and respectful of proprietary information
+- 📈 **Long-term Thinking**: Building scalable solutions for future growth
 
-> *"Professional, responsive, and skilled. The quality of code and attention to detail is exceptional."*  
-> — **Business Owner**
-
-> *"Transformed our business idea into a beautiful, functional mobile app. Great communication throughout the project."*  
-> — **Startup Founder**
+**Client-Centric Values:**
+- Understanding business goals, not just technical requirements
+- Proactive problem-solving and suggesting improvements
+- Post-launch support and maintenance availability
+- Knowledge transfer and documentation
 
 ---
 
