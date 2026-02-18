@@ -192,8 +192,7 @@ I'm always interested in taking on new challenges and helping businesses succeed
 - Email: **khoirul.20998@gmail.com**
 - GitHub: [@shirokun20](https://github.com/shirokun20)
 - Location: Pangandaran, West Java, Indonesia 🇮🇩
-
-**⚡ Response Time:** Typically within 24 hours
+- **⚡ Quick Response**: I aim to respond promptly to all inquiries
 
 ---
 
