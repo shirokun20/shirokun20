@@ -11,7 +11,7 @@
   </p>
 
   <!-- Social & Contact Badges -->
-  <a href="https://trakteer.id/shirokun20998" target="_blank"><img src="https://img.shields.io/badge/Support_Me-Trakteer-be1e2d?style=for-the-badge&logo=ko-fi&logoColor=white" height="30"/></a>
+  <a href="https://trakteer.id/shirokun20" target="_blank"><img src="https://img.shields.io/badge/Support_Me-Trakteer-be1e2d?style=for-the-badge&logo=ko-fi&logoColor=white" height="30"/></a>
   <a href="mailto:khoirul.20998@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/></a>
   <a href="https://github.com/shirokun20?tab=followers"><img src="https://img.shields.io/github/followers/shirokun20?style=for-the-badge&logo=github&label=Followers&color=24292e" height="30"/></a>
 </div>
