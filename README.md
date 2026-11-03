@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:24292e&height=180&section=header&text=Shirokun20&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mobile%20Developer%20%C2%B7%20Android%20%26%20Flutter&descSize=18&descAlignY=60" alt="Shirokun20 header" width="100%"/>
-
 <!-- Typing SVG: Dynamic Intro -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Shirokun20;Mobile+Developer;Android+%26+Flutter+Enthusiast" alt="Typing SVG"/>
